@@ -1,0 +1,1 @@
+C:\Users\user\source\repos\StudentMAUI\StudentMAUI\StudentMAUI.csproj;x64
